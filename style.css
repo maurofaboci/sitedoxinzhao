@@ -36,6 +36,11 @@ src: url(night-in-tokyo.regular.ttf);
 
 }
 
+.history {
+    padding: 50px;
+    border: 3px solid ;
+}
+
 .earlygame, .midgame, .lategame {
     width: 700px; 
     margin-left: auto;
